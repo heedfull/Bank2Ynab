@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Bank2Ynab": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\edwin.goddard\\Downloads\\Transaction_Export_01.05.2019_19.34.csv\""
+    }
+  }
+}
